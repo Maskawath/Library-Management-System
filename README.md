@@ -50,8 +50,7 @@ This report examines that any educational system can use it in their libraries t
 “E-R Diagram or Entity-relationship model is a graphical representation of entities and their relationships to each other, typically used in computing in regard to the organization of data within databases” 
 It is cleared from above discussion that main entities of Library are, members (student or staff), books and librarians which store data regarding any queries e.g. how many books are borrowed, fine payable etc. In this diagram we try to show possible entities and their relationship with each other and what attributes they hold. Using ER Design redundancy of many items can be reduced and it’s a good practice to show relation among entities.
 
-![](images/Capture.JPG)
-![](images/Capture4.JPG)
+![](Capture.JPG)
 
 
 # Cardinality of the relationship/Multiplicity is described as:
